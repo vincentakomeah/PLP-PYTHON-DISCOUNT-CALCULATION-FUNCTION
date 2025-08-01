@@ -1,10 +1,6 @@
 # PLP-PYTHON-DISCOUNT-CALCULATION-FUNCTION
 This Python script defines and uses a function to calculate the final price of an item after applying a discount of 20% or more, otherwise returning the original price.
 
-Sure! Here's a clear and simple **README** text for your code:
-
----
-
 # PLP Python Discount Calculation Function
 
 This is a basic Python program that calculates the final price of an item after applying a discount. The discount is only applied if it is **20% or more**; otherwise, the original price is returned.
